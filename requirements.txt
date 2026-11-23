@@ -1,0 +1,5 @@
+numpy
+opencv-contrib-python   # versão contrib: tem os trackers KCF/CSRT
+# PyTorch: sem GPU NVIDIA, instale antes a versão só CPU (ver README).
+torch
+torchvision

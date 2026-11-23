@@ -1,0 +1,23 @@
+refs/
+relatorio/
+# Log pessoal, só local
+TIMELINE.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Dados e resultados
+videos/*
+!videos/.gitkeep
+outputs/
+*.pt
+
+# LaTeX
+relatorio/*.aux
+relatorio/*.log
+relatorio/*.out
+relatorio/*.bbl
+relatorio/*.blg
+relatorio/*.synctex.gz
